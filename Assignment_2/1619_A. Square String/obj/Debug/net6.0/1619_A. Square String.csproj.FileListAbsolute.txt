@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\bin\Debug\net6.0\1619_A. Square String.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\bin\Debug\net6.0\1619_A. Square String.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\bin\Debug\net6.0\1619_A. Square String.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\bin\Debug\net6.0\1619_A. Square String.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\bin\Debug\net6.0\1619_A. Square String.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\refint\1619_A. Square String.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\1619_A. Square String.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1619_A. Square String\obj\Debug\net6.0\ref\1619_A. Square String.dll

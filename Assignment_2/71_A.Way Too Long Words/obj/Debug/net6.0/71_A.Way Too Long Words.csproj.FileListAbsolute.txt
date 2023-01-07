@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\bin\Debug\net6.0\71_A.Way Too Long Words.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\bin\Debug\net6.0\71_A.Way Too Long Words.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\bin\Debug\net6.0\71_A.Way Too Long Words.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\bin\Debug\net6.0\71_A.Way Too Long Words.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\bin\Debug\net6.0\71_A.Way Too Long Words.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\refint\71_A.Way Too Long Words.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\71_A.Way Too Long Words.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\71_A.Way Too Long Words\obj\Debug\net6.0\ref\71_A.Way Too Long Words.dll

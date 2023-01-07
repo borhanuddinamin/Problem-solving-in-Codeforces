@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "144_A. Arrival of the General/1.0.0": {
+        "runtime": {
+          "144_A. Arrival of the General.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "144_A. Arrival of the General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

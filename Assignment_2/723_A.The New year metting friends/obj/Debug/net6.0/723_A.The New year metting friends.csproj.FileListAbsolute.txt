@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\bin\Debug\net6.0\723_A.The New year metting friends.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\bin\Debug\net6.0\723_A.The New year metting friends.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\bin\Debug\net6.0\723_A.The New year metting friends.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\bin\Debug\net6.0\723_A.The New year metting friends.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\bin\Debug\net6.0\723_A.The New year metting friends.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\refint\723_A.The New year metting friends.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\723_A.The New year metting friends.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\723_A.The New year metting friends\obj\Debug\net6.0\ref\723_A.The New year metting friends.dll

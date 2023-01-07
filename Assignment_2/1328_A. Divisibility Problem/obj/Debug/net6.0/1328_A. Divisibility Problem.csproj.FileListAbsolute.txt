@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\bin\Debug\net6.0\1328_A. Divisibility Problem.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\bin\Debug\net6.0\1328_A. Divisibility Problem.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\bin\Debug\net6.0\1328_A. Divisibility Problem.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\bin\Debug\net6.0\1328_A. Divisibility Problem.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\bin\Debug\net6.0\1328_A. Divisibility Problem.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\refint\1328_A. Divisibility Problem.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\1328_A. Divisibility Problem.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1328_A. Divisibility Problem\obj\Debug\net6.0\ref\1328_A. Divisibility Problem.dll

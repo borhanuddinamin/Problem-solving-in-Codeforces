@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\bin\Debug\net6.0\1335_A. Candies and Two Sisters.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\bin\Debug\net6.0\1335_A. Candies and Two Sisters.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\bin\Debug\net6.0\1335_A. Candies and Two Sisters.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\bin\Debug\net6.0\1335_A. Candies and Two Sisters.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\bin\Debug\net6.0\1335_A. Candies and Two Sisters.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\refint\1335_A. Candies and Two Sisters.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\1335_A. Candies and Two Sisters.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\1335_A. Candies and Two Sisters\obj\Debug\net6.0\ref\1335_A. Candies and Two Sisters.dll

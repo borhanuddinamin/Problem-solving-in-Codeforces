@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\bin\Debug\net6.0\148_A. Insomnia cure.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\bin\Debug\net6.0\148_A. Insomnia cure.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\bin\Debug\net6.0\148_A. Insomnia cure.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\bin\Debug\net6.0\148_A. Insomnia cure.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\bin\Debug\net6.0\148_A. Insomnia cure.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\refint\148_A. Insomnia cure.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\148_A. Insomnia cure.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\148_A. Insomnia cure\obj\Debug\net6.0\ref\148_A. Insomnia cure.dll

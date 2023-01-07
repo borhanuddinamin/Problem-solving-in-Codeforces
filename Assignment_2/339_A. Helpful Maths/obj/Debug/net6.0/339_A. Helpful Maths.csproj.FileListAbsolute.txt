@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\bin\Debug\net6.0\339_A. Helpful Maths.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\bin\Debug\net6.0\339_A. Helpful Maths.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\bin\Debug\net6.0\339_A. Helpful Maths.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\bin\Debug\net6.0\339_A. Helpful Maths.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\bin\Debug\net6.0\339_A. Helpful Maths.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\refint\339_A. Helpful Maths.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\339_A. Helpful Maths.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\339_A. Helpful Maths\obj\Debug\net6.0\ref\339_A. Helpful Maths.dll

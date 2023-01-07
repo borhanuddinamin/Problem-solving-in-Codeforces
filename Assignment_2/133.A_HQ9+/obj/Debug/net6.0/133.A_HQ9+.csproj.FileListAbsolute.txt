@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\bin\Debug\net6.0\133.A_HQ9+.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\bin\Debug\net6.0\133.A_HQ9+.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\bin\Debug\net6.0\133.A_HQ9+.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\bin\Debug\net6.0\133.A_HQ9+.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\bin\Debug\net6.0\133.A_HQ9+.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\refint\133.A_HQ9+.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\133.A_HQ9+.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\133.A_HQ9+\obj\Debug\net6.0\ref\133.A_HQ9+.dll

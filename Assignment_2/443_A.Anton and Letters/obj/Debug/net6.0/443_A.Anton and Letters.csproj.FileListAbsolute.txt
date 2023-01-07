@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\bin\Debug\net6.0\443_A.Anton and Letters.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\bin\Debug\net6.0\443_A.Anton and Letters.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\bin\Debug\net6.0\443_A.Anton and Letters.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\bin\Debug\net6.0\443_A.Anton and Letters.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\bin\Debug\net6.0\443_A.Anton and Letters.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\refint\443_A.Anton and Letters.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\443_A.Anton and Letters.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\443_A.Anton and Letters\obj\Debug\net6.0\ref\443_A.Anton and Letters.dll

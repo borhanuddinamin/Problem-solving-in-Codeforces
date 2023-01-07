@@ -1,0 +1,15 @@
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\bin\Debug\net6.0\703_A.Mishka and Game.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\bin\Debug\net6.0\703_A.Mishka and Game.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\bin\Debug\net6.0\703_A.Mishka and Game.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\bin\Debug\net6.0\703_A.Mishka and Game.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\bin\Debug\net6.0\703_A.Mishka and Game.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\refint\703_A.Mishka and Game.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\703_A.Mishka and Game.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\703_A.Mishka and Game\obj\Debug\net6.0\ref\703_A.Mishka and Game.dll

@@ -1,0 +1,30 @@
+F:\VS project\New folder\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.exe
+F:\VS project\New folder\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.deps.json
+F:\VS project\New folder\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.runtimeconfig.json
+F:\VS project\New folder\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.dll
+F:\VS project\New folder\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.pdb
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.csproj.AssemblyReference.cache
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.AssemblyInfoInputs.cache
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.AssemblyInfo.cs
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.csproj.CoreCompileInputs.cache
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.dll
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\refint\29_A. Word.dll
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.pdb
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.genruntimeconfig.cache
+F:\VS project\New folder\Assignment_2\29_A. Word\obj\Debug\net6.0\ref\29_A. Word.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\bin\Debug\net6.0\29_A. Word.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\refint\29_A. Word.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\29_A. Word.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\29_A. Word\obj\Debug\net6.0\ref\29_A. Word.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "723_A.The New year metting friends/1.0.0": {
+        "runtime": {
+          "723_A.The New year metting friends.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "723_A.The New year metting friends/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

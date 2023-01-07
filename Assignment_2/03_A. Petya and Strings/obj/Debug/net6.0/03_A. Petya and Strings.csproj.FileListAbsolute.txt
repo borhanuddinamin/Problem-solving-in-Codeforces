@@ -1,0 +1,30 @@
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.exe
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.deps.json
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.runtimeconfig.json
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.dll
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.pdb
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.csproj.AssemblyReference.cache
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.AssemblyInfoInputs.cache
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.AssemblyInfo.cs
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.csproj.CoreCompileInputs.cache
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.dll
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\refint\03_A. Petya and Strings.dll
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.pdb
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.genruntimeconfig.cache
+F:\VS project\New folder\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\ref\03_A. Petya and Strings.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.exe
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.deps.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.runtimeconfig.json
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\bin\Debug\net6.0\03_A. Petya and Strings.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.csproj.AssemblyReference.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.AssemblyInfoInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.AssemblyInfo.cs
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.csproj.CoreCompileInputs.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\refint\03_A. Petya and Strings.dll
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.pdb
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\03_A. Petya and Strings.genruntimeconfig.cache
+F:\VS project\BorhanUddinAmin_csharp-b12\Assignment_2\03_A. Petya and Strings\obj\Debug\net6.0\ref\03_A. Petya and Strings.dll

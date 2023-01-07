@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "271_A.Beautiful Year/1.0.0": {
+        "runtime": {
+          "271_A.Beautiful Year.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "271_A.Beautiful Year/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
